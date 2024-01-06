@@ -13,6 +13,7 @@
     "build": "unbuild"
   },
   "devDependencies": {
+    "@types/node": "^16.10.2",
     "unbuild": "^0.8.9"
   },
   "dependencies": {
